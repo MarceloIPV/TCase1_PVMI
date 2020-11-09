@@ -2,3 +2,6 @@ Java
 Flutter
 Php
 SQL
+JavaScript
+Python
+C++
